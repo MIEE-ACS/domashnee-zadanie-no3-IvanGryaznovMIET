@@ -7,9 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Grid.Background>
-            <ImageBrush ImageSource="D:\WpfApp1\WpfApp1\obj/jpg3.gif" Stretch="UniformToFill"/>
-        </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="99*"/>
             <RowDefinition Height="335*"/>
